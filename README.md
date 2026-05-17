@@ -18,7 +18,8 @@ In diesem Projekt werde ich 08 Abfragen in BigQuery basierend auf dem Google Ana
 ### Abfrage 01: Berechnen Sie die gesamten Besuche, Seitenaufrufe, Transaktionen und den Umsatz für Januar, Februar und März 2017, sortiert nach Monat
 * SQL-Code
 
-code câu 1
+<img width="713" height="183" alt="q1" src="https://github.com/user-attachments/assets/e23179df-c34c-4f00-aa98-81fa36171bda" />
+
 
 * Abfrageergebnisse
 
