@@ -23,68 +23,98 @@ In diesem Projekt werde ich 08 Abfragen in BigQuery basierend auf dem Google Ana
 
 * Abfrageergebnisse
 
-kq câu 1
+<img width="832" height="152" alt="r1" src="https://github.com/user-attachments/assets/0b5f32f5-4d56-49c4-a647-feb3654cac88" />
+
 
 ### Abfrage 02: Absprungrate pro Zugriffsquelle im Juli 2017
 * SQL-Code
 
-code 2
+<img width="717" height="231" alt="q2" src="https://github.com/user-attachments/assets/37d35b0f-ace9-404c-b1ca-c86e1f49ce46" />
+
 
 * Abfrageergebnisse
 
-kq 2
+<img width="867" height="406" alt="r2" src="https://github.com/user-attachments/assets/a7299547-f948-4a8e-9079-fae261249b6a" />
+
 
 ### Abfrage 3: Umsatz nach Zugriffsquelle nach Woche und nach Monat im Juni 2017
 * SQL-Code
 
-code 3
+<img width="747" height="506" alt="q3" src="https://github.com/user-attachments/assets/ed7ca3bd-7eb0-4e3c-80ff-39e13df2ac59" />
+
 
 * Abfrageergebnisse
 
-kq 3
+<img width="992" height="402" alt="r3" src="https://github.com/user-attachments/assets/b6260cd8-812a-4cd2-b1b2-f80d34d2898a" />
 
-### Abfrage 04: Durchschnittliche Anzahl von Produktseitenaufrufen nach Käufertyp (Käufer vs. Nicht-Käufer) im Juni und Juli 2017
+### Abfrage 04: Konversionsrate nach Zugriffsquelle im Jahr 2017. (sortiert nach conversion_rate desc)
 * SQL-Code
 
-code 4
+<img width="837" height="190" alt="q4" src="https://github.com/user-attachments/assets/44ce8df7-539b-464a-9329-2cae71ff4cf9" />
+
 
 * Abfrageergebnisse
 
-kq 4
+<img width="827" height="145" alt="r4" src="https://github.com/user-attachments/assets/1f694c9e-4811-470c-adb2-2967b69130d0" />
 
-### Abfrage 05: Durchschnittliche Anzahl von Transaktionen pro Nutzer, der im Juli 2017 einen Kauf getätigt hat
+### Abfrage 05: Durchschnittliche Anzahl von Seitenaufrufen nach Käufertyp (Käufer vs. Nicht-Käufer) im Juni und Juli 2017
 * SQL-Code
 
-code 5
+<img width="882" height="570" alt="q5" src="https://github.com/user-attachments/assets/1ac7e52a-2ab2-4ff5-9803-01f4ae7b62f0" />
+
 
 * Abfrageergebnisse
 
-kq 5
+<img width="675" height="112" alt="r5" src="https://github.com/user-attachments/assets/091b11d0-5fc9-4912-8872-ee8c172b9f64" />
 
-### Abfrage 06: Durchschnittlich ausgegebener Geldbetrag pro Sitzung. Nur Käuferdaten für Juli 2017 einbeziehen
+### Abfrage 06: Durchschnittliche Anzahl von Transaktionen pro Nutzer, der im Juli 2017 einen Kauf getätigt hat
 * SQL-Code
 
-code 6
+<img width="917" height="190" alt="q6" src="https://github.com/user-attachments/assets/747b3760-cc44-4a72-9025-7dc0908a963b" />
 
 * Abfrageergebnisse
 
-kq 6
+<img width="488" height="71" alt="r6" src="https://github.com/user-attachments/assets/2fb113b8-9d30-4fb6-8ba0-66a6735edd9b" />
 
-### Abfrage 07: Andere Produkte, die von Kunden gekauft wurden, die das Produkt "YouTube Men's Vintage Henley" im Juli 2017 gekauft haben. Die Ausgabe sollte den Produktnamen und die bestellte Menge anzeigen.
+### Abfrage 07: Umsatzbeitrag nach Gerät im Jahr 2017 (sortiert nach ratio desc)
 * SQL-Code
 
-code 7
+<img width="827" height="306" alt="q7" src="https://github.com/user-attachments/assets/f7e12e1d-c67e-4d06-b0f7-bb4f832ff028" />
 
 * Abfrageergebnisse
 
-kq 7
+<img width="802" height="151" alt="r7" src="https://github.com/user-attachments/assets/23edae55-986a-4611-8462-2f41315ff99a" />
 
-### Abfrage 08: Kohortenkarte vom Seitenaufruf (pageview) zum Hinzufügen zum Warenkorb (addtocart) bis zum Kauf (purchase) für die letzten 3 Monate berechnen.
+### Abfrage 08: Andere Produkte, die von Kunden gekauft wurden, die das Produkt "YouTube Men's Vintage Henley" im Juli 2017 gekauft haben
 * SQL-Code
 
+<img width="737" height="427" alt="q8" src="https://github.com/user-attachments/assets/76b8fb32-0dd2-4929-aed3-2ce3154c4e7a" />
+
+
 * Abfrageergebnisse
 
-code 8
+<img width="510" height="422" alt="r8" src="https://github.com/user-attachments/assets/e2020662-9435-4a2e-a670-58db4aab57af" />
+
+
+### Abfrage 09: Kohortenkarte vom Produktaufruf (product view) zum Hinzufügen zum Warenkorb (addtocart) bis zum Kauf (purchase) für Januar, Februar und März 2017 berechnen
+* SQL-Code
+
+<img width="1013" height="427" alt="q9" src="https://github.com/user-attachments/assets/0fe003a4-33eb-409d-90f6-11b93db4bd7b" />
+
+* Abfrageergebnisse
+
+<img width="1141" height="151" alt="r9" src="https://github.com/user-attachments/assets/c738c19d-22c7-461f-8ae3-76b4f6ebbbe2" />
+
+
+### Abfrage 10: Umsatz nach Woche von Mai bis Juli 2017 und kumulierten Umsatz berechnen
+* SQL-Code
+
+<img width="766" height="372" alt="q10" src="https://github.com/user-attachments/assets/3cea11a5-1b23-47e1-9160-3b8e5f56b061" />
+
+* Abfrageergebnisse
+
+<img width="651" height="402" alt="r10" src="https://github.com/user-attachments/assets/ccc58703-bc4b-4627-99f3-9939db91f3fb" />
+
 
 ## V. Fazit
 * Zusammenfassend hat meine Untersuchung des E-Commerce-Datensatzes mithilfe von SQL in Google BigQuery basierend auf dem Google Analytics-Datensatz mehrere interessante Erkenntnisse geliefert.
