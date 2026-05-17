@@ -14,7 +14,7 @@ Der E-Commerce-Datensatz ist in einem öffentlichen Google BigQuery-Datensatz ge
 * Geben Sie die Projekt-ID **"bigquery-public-data.google_analytics_sample.ga_sessions"** ein und drücken Sie "Enter".
 * Klicken Sie auf die Tabelle **"ga_sessions_"**, um sie zu öffnen.
 ## IV. Untersuchung des Datensatzes
-In diesem Projekt werde ich 08 Abfragen in BigQuery basierend auf dem Google Analytics-Datensatz schreiben.
+In diesem Projekt werde ich 10 Abfragen in BigQuery basierend auf dem Google Analytics-Datensatz schreiben.
 ### Abfrage 01: Berechnen Sie die gesamten Besuche, Seitenaufrufe, Transaktionen und den Umsatz für Januar, Februar und März 2017, sortiert nach Monat
 * SQL-Code
 
